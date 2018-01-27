@@ -1,0 +1,4 @@
+export const ERROR_TYPES = {
+  DUPLICATE : "DUPLICATE",
+  INVALID : "INVALID"
+ }
